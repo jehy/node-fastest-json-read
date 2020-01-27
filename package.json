@@ -1,0 +1,19 @@
+{
+  "name": "fastest-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testJson.js",
+  "scripts": {
+    "test": "node ./testJson.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jehy/node-fastest-json-read.git"
+  },
+  "author": "Jehy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jehy/node-fastest-json-read/issues"
+  },
+  "homepage": "https://github.com/jehy/node-fastest-json-read#readme"
+}
